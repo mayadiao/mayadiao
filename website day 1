@@ -1,13 +1,15 @@
 <html>
 <head>
-	<title> DIAO </title> 
+	<title> Maya Diao Travel Diaries </title> 
 </head>
 <body>
-<h1> Maya Diao's Gallery </hl> 
+<h1> DIAO </hl> 
 
-<h2> photo #1 </h2> 
-<img src= file:///Users/useradmin/Desktop/L1002938.JPG alt= "san fran sunset" style="width:720px;height:480px;"> 
-<h3> photo #2 </h2> 
-	<img src=https://scontent-sjc2-1.xx.fbcdn.net/hphotos-xta1/t31.0-8/12119913_10208239532644878_2966948884439531218_o.jpg alt= "bokeh flower" style= "width:720"> 
-<h4> photo #3 </h3> 
+<h2> berlin, germany </h2> 
+<img src= https://scontent-sjc2-1.xx.fbcdn.net/hphotos-prn2/v/t1.0-9/10404525_10204673976308198_2188726252303169237_n.jpg?oh=40df092b821799807192ca4e2d9998cc&oe=56F4FEE7 alt= "wilkommen in berlin" style="height:464"> 
+<h3> darien, connecticut </h3> 
+	<img src=https://scontent-sjc2-1.xx.fbcdn.net/hphotos-xpt1/t31.0-8/q82/s2048x2048/615250_10204400693476298_6957834384698544450_o.jpg alt= "darien" style= "height:321"> 
+<h4> manarola, cinque terre, italy </h4> 
 	<img src=https://scontent-sjc2-1.xx.fbcdn.net/hphotos-xfp1/t31.0-8/11741296_10207681067683603_3822844914646617052_o.jpg alt= "manarola" style= "width:720"> 
+<h5> ngorogoro crater national park, tanzania </h5> 
+	<img src= https://scontent-sjc2-1.xx.fbcdn.net/hphotos-xpf1/t31.0-8/10982162_10206488667234337_216372706489237538_o.jpg alt= "elephant" style= "width:720">
