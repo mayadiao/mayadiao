@@ -7,3 +7,7 @@
 
 <h2> photo #1 </h2> 
 <img src= file:///Users/useradmin/Desktop/L1002938.JPG alt= "san fran sunset" style="width:720px;height:480px;"> 
+<h3> photo #2 </h2> 
+	<img src=https://scontent-sjc2-1.xx.fbcdn.net/hphotos-xta1/t31.0-8/12119913_10208239532644878_2966948884439531218_o.jpg alt= "bokeh flower" style= "width:720"> 
+<h4> photo #3 </h3> 
+	<img src=https://scontent-sjc2-1.xx.fbcdn.net/hphotos-xfp1/t31.0-8/11741296_10207681067683603_3822844914646617052_o.jpg alt= "manarola" style= "width:720"> 
